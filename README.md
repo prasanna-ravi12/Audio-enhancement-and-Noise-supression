@@ -29,5 +29,19 @@ Project Title: Audio Enhancement and Noise Suppression
     pip install flask pytorch torchaudio moviepy
   ```
 2. Directory structure:
+ - <img width="435" alt="Screenshot 2024-07-11 at 2 00 47 AM" src="https://github.com/prasanna-ravi12/Audio-enhancement-and-Noise-supression/assets/175058249/f426396d-b786-4fb5-82e0-a8844d26ebeb">
+
+3.Run the Flask application:
+
+```
+    Python app.py
+  ```
+4. Open your web browser and go to http://127.0.0.1:5000 to access the application.
 
 
+###Usage
+  ###Web Interface
+     1.Go to the upload section and click the "Upload" button to select an audio or video file from your device.
+     2.Once the file is uploaded, the application will process the file to suppress noise.
+     3.After processing, a download link will appear. Click the link to download the enhanced file.
+  - 
