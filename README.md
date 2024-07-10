@@ -45,5 +45,4 @@ Project Title: Audio Enhancement and Noise Suppression
  - Once the file is uploaded, the application will process the file to suppress noise.
  = After processing, a download link will appear. Click the link to download the enhanced file.
 
-  - ![1](https://github.com/prasanna-ravi12/Audio-enhancement-and-Noise-supression/assets/175058249/5c6f04cd-b3d5-4ab8-b22f-475931b83901)
-
+  - ![1](https://github.com/prasanna-ravi12/Audio-enhancement-and-Noise-supression/assets/175058249/e9711115-f619-4d3a-b82c-76ea986baea1)
