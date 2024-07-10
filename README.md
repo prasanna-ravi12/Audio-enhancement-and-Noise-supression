@@ -36,7 +36,7 @@ Project Title: Audio Enhancement and Noise Suppression
 ```
     Python app.py
   ```
-4. Open your web browser and go to http://127.0.0.1:5000 to access the application.
+4. Open your web browser and go to http://127.0.0.1:5000/static/index.html to access the application.
 
 
 ##Web Interface
