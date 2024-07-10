@@ -26,7 +26,7 @@ Project Title: Audio Enhancement and Noise Suppression
 ### Setup
 1.Installation:
    ```
-    pip install flask pytorch torchaudio moviepy
+    pip install flask pytorch torchaudio moviepy audiodenoiser
   ```
 2. Directory structure:
  - <img width="435" alt="Screenshot 2024-07-11 at 2 00 47 AM" src="https://github.com/prasanna-ravi12/Audio-enhancement-and-Noise-supression/assets/175058249/f426396d-b786-4fb5-82e0-a8844d26ebeb">
