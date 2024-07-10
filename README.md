@@ -24,9 +24,10 @@ Project Title: Audio Enhancement and Noise Suppression
 - moviepy
 
 ### Setup
-1. Installation:
+1.Installation:
    ```
     pip install flask pytorch torchaudio moviepy
   ```
 2. Directory structure:
+
 
