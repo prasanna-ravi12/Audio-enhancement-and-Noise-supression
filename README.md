@@ -31,12 +31,14 @@ Project Title: Audio Enhancement and Noise Suppression
 2. Directory structure:
  - <img width="435" alt="Screenshot 2024-07-11 at 2 00 47 AM" src="https://github.com/prasanna-ravi12/Audio-enhancement-and-Noise-supression/assets/175058249/f426396d-b786-4fb5-82e0-a8844d26ebeb">
 
-3.Run the Flask application:
+3. Create an empty folder 'uploads' to store the uploded image from website.
+
+4.Run the Flask application:
 
 ```
     Python app.py
   ```
-4. Open your web browser and go to http://127.0.0.1:5000/static/index.html to access the application.
+5. Open your web browser and go to http://127.0.0.1:5000/static/index.html to access the application.
 
 
 ##Web Interface
